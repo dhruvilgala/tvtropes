@@ -10,7 +10,7 @@ Here is the [official page for our paper.](https://www.aclweb.org/anthology/2020
 ## Data
 We crawled TVTropes.org to collect a large-scale dataset of 30K tropes and 1.9M examples of their occurrences across 40K works of film, television, and literature. We then connected our data to meta-data from IMDb and Goodreads to augment our dataset and enable analysis of gender bias.
 
-Our data can be found [here.](https://drive.google.com/file/d/1ruAIRtd5ZsrR6OQziX9mGurBp1JsNxXG/view?usp=sharing) It contains the following:
+Our data can be found [here.](https://drive.google.com/file/d/1Duyz5ATlLHzwMidj15bWVnWHpdE4aRXn/view?usp=sharing) It contains the following:
 - tropes contains trope names, IDs, and descriptions
 - lit_tropes, film_tropes, and tv_tropes contain the trope names, titles, and examples across each form of media
 - lit_goodreads_match, film_imdb_match, tv_imdb_match contain the tropes, examples, and titles linked to the metadata
