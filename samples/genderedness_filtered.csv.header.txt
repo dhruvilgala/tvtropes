@@ -1,0 +1,1 @@
+Trope	Gender Ratio	Tokens	FemaleTokens	MaleTokens	Corpus	Normalized Gender Ratio	TotalMFTokens	TokenRatio
