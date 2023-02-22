@@ -8,7 +8,7 @@ import glob
 bases = [f.replace(".csv.txt","") for f in glob.glob("samples/*.csv.txt")]
 
 def opttrunc(x):
-    N = 20
+    N = 40
     if len(x) > N:
         x = x[:N-3] + "..."
     return x
